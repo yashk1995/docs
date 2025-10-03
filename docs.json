@@ -16,7 +16,7 @@
           {
             "group": "Getting started",
             "pages": [
-              "inde",
+              "index",
               "quickstart",
               "development"
             ]
