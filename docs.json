@@ -3,7 +3,9 @@
   "theme": "mint",
   "name": "Avici Money Docs",
   "colors": {
-    "primary": "#FFFFFF"
+    "primary": "#ffffff",
+    "light": "#ffffff", 
+    "dark": "#ffffff"
   },
   "favicon": "/Avici_logo_1.svg",
   "navigation": {
