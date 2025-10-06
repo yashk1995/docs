@@ -1,13 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Avici Money Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#FFFFFF"
   },
-  "favicon": "/avicilogo.jpg",
+  "favicon": "/Avici_logo_1.svg",
   "navigation": {
     "tabs": [
       {
@@ -84,8 +82,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/Avici_Money logo.svg",
+    "dark": "/logo/Avici_Money logo.svg"
   },
   "navbar": {
     "links": [
